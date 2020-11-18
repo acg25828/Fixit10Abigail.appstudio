@@ -23,8 +23,32 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "CustomerSelect",
+            "CustomerSelect.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CustomerDelete",
+            "CustomerDelete.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CustomerAdd",
+            "CustomerAdd.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "CustomerUpdate",
+            "CustomerUpdate.json"
           ]
         }
       ],
@@ -47,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "CustomerSelect",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
